@@ -25,11 +25,12 @@
 
 ![App Screenshot](./documentation/tela.png)
 
-<p align="center">
-  <a href="https://rocketshoes.netlify.com/" target="_blank">
-    <img alt="Demo on Vercel" src="https://res.cloudinary.com/lukemorales/image/upload/v1563043495/readme_logos/demo_on_netlify_bbuvjz.png">
-  </a>
-</p>
+<div align="center" >
+<a href="https://modelo-site-sand.vercel.app" target="_blank" rel="noopener noreferrer"> Site Demostração</a>
+
+<a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fviniciusnicassio%2FModeloSite%2F&demo-title=Modelo%20de%20sites&demo-description=Esse%20projeto%20%C3%A9%20meu%20estudo%20para%20criar%20um%20ambiente%20com%20as%20configura%C3%A7%C3%B5es%20corretas%20para%20usar%20as%20principais%20ferramentas%2C%20esse%20modelo%20ser%C3%A1%20usado%20como%20consulta%20para%20novos%20projetos.&demo-url=https%3A%2F%2Fmodelo-site-sand.vercel.app&demo-image=https%3A%2F%2Fraw.githubusercontent.com%2Fviniciusnicassio%2FModeloSite%2Fdevelop%2Fdocumentation%2Ftela.png"><img src="https://vercel.com/button" alt="Deploy with Vercel"/></a>
+
+</div>
 
 ## :dart: Objetivo do projeto
 
