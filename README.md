@@ -23,6 +23,14 @@
   <img alt="GitHub" src="https://img.shields.io/github/license/viniciusnicassio/ModeloSite.svg">
 </p>
 
+![App Screenshot](./documentation/tela.png)
+
+<p align="center">
+  <a href="https://rocketshoes.netlify.com/" target="_blank">
+    <img alt="Demo on Vercel" src="https://res.cloudinary.com/lukemorales/image/upload/v1563043495/readme_logos/demo_on_netlify_bbuvjz.png">
+  </a>
+</p>
+
 ## :dart: Objetivo do projeto
 
 Esse projeto é meu estudo para criar um ambiente com as configurações corretas para usar as principais ferramentas, esse modelo será usado como consulta para novos projetos.
