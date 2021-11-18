@@ -34,11 +34,11 @@
 
 ## :dart: Objetivo do projeto
 
-Esse projeto é meu estudo para criar um ambiente com as configurações corretas para usar as principais ferramentas, esse modelo será usado como consulta para novos projetos.
+Esse projeto é meu estudo para criar um ambiente com as configurações corretas utilizando as principais ferramentas, esse modelo será usado como consulta para novos projetos.
 
 ## :crossed_swords: Desafios encontrados
 
-Como todo começo o principal desafio é a correta configuração das bibliotecas sem gerar conflitos entre elas.
+Como todo começo, o principal desafio é a correta configuração das bibliotecas sem gerar conflitos entre elas.
 
 ## :rocket: Tecnologias usadas:
 
@@ -46,8 +46,6 @@ Como todo começo o principal desafio é a correta configuração das biblioteca
 - [Styled-components](https://styled-components.com/)
 - [next-images](https://www.npmjs.com/package/next-images)
 - [babel-plugin-inline-react-svg](https://www.npmjs.com/package/babel-plugin-inline-react-svg)
-- [Jest](https://jestjs.io/pt-BR/)
-- [SWR](https://swr.vercel.app/)
 
 ## :memo: License
 
@@ -55,4 +53,4 @@ Este projeto está sob a licença do MIT. Veja o [LICENSE](https://github.com/vi
 
 ---
 
-Feito com por Vinicius Ferreira :wave: [Entrar em contato!](https://www.linkedin.com/in/vinicius-nicassio-ferreira-66b54962/)
+Feito por Vinicius Ferreira :wave: [Entrar em contato!](https://www.linkedin.com/in/vinicius-nicassio-ferreira-66b54962/)
